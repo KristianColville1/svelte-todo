@@ -29,7 +29,7 @@ import { v4 as uuidv4 } from 'uuid';
 		<div class="title">Simple Todo List</div>
 		<div class="subtitle">Fun things to do</div>
 	</div>
-</div>
+
 
 <div class="section box">
 	<div class="field is-horizontal">
@@ -93,3 +93,9 @@ import { v4 as uuidv4 } from 'uuid';
 		</tbody>
 	</table>
 </div>
+
+
+
+</div>
+
+
